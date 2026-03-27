@@ -1,0 +1,14 @@
+.pictureContainer .pictureLarge {
+  padding: 4px;
+  z-index: 10;
+  display: none;
+}
+
+.pictureContainer:hover .pictureLarge {
+  display: block;
+}
+
+.pictureLarge img {
+  max-width: 150px;
+  max-height: 150px;
+}

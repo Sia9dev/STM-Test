@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/debounce.ts","./src/index.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/filter.tsx","./src/components/loader.tsx","./src/components/table.tsx"],"version":"5.9.3"}
