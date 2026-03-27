@@ -34,7 +34,7 @@ const App: FC = () => {
   return (
     <div>
       <h1 id="test" className="test2">
-        Пользыватели
+        пользователи
       </h1>
       <Filter onFilter={handleFilter} onReset={handleReset} />
       <UserTable users={filteredUsers} filterText={filter} />
